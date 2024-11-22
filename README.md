@@ -1,6 +1,10 @@
-## Olá, tudo bem? Eu sou o Vitor, dev front-end com foco em Angular!!
+## Olá, tudo bem? Eu sou o Vitor, dev front-end com foco em Angular!! 🚀
 
-Este é meu espaço para armazenar e compartilhar projetos para estudo, testes para oportunidades e 
+Este repositório é meu espaço para armazenar e compartilhar projetos de estudo, protótipos e testes criados para explorar novas tecnologias, além de oportunidades desafiadoras que surgirem.
+
+Meu foco é criar soluções modernas, responsivas e eficientes para interfaces de usuário, com uma forte ênfase em desempenho, acessibilidade e boas práticas de desenvolvimento. Com experiência em HTML5, CSS3, JavaScript, TypeScript e frameworks como Angular, estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
+
+Aqui você encontrará projetos que refletem meu compromisso com o aprendizado contínuo e minha paixão por desenvolvimento web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
